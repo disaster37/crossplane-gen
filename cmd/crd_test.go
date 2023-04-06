@@ -6,7 +6,7 @@ import (
 	"os"
 	"testing"
 
-	"github.com/disaster37/crossplane-crd-generator/helper"
+	"github.com/disaster37/crossplane-gen/helper"
 	log "github.com/sirupsen/logrus"
 	"github.com/stretchr/testify/assert"
 )

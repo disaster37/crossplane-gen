@@ -1,4 +1,4 @@
-module github.com/disaster37/crossplane-crd-generator
+module github.com/disaster37/crossplane-gen
 
 go 1.20
 

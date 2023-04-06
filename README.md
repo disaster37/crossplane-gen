@@ -3,6 +3,12 @@
 this project permit to generate crossplane CRD from golang code.
 To do that, it use the controller-gen (standard librairy used by operator-sdk) to generate kubernetes CRD from golang code. Then it patch the CRD generated to be used by crossplane.
 
+## Installation
+
+```
+go install github.com/disaster37/crossplane-crd-generator@v1.0.1
+```
+
 ## Usage
 
 ### Basic usage

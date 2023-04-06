@@ -4,7 +4,7 @@ import (
 	"os"
 	"sort"
 
-	"github.com/disaster37/crossplane-crd-generator/cmd"
+	"github.com/disaster37/crossplane-gen/cmd"
 	log "github.com/sirupsen/logrus"
 	"github.com/urfave/cli/v2"
 	prefixed "github.com/x-cray/logrus-prefixed-formatter"
